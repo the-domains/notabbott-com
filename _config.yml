@@ -1,7 +1,7 @@
 name: NotAbbott.com
 favicon: null
-layout_spectrum: 0.5443180005531758
-typography_spectrum: 0.64795
+layout_spectrum: 0.49977
+typography_spectrum: 0.99352
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#f7baa0'
     - '#5570c8'
   brandStrength: 0.8125
-  lightness: 0.3125
+  lightness: 0.1875
   saturation: 0.625
   rhythmicContrast: 0.5
 purpose: []
